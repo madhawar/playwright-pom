@@ -1,4 +1,4 @@
-First Steps
+Installing Dependencies
 
 $ npm install
 
